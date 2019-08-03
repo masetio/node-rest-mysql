@@ -1,6 +1,6 @@
 module.exports = {
-    host     : process.env.MYSQL_HOST,
-    user     : process.env.MYSQL_USER,
-    password : process.env.MYSQL_PASSWORD,
-    database : process.env.MYSQL_DATABASE
+    host     : us-cdbr-iron-east-02.cleardb.net,
+    user     : b5b17a83288fd1,
+    password : 332201c6,
+    database : heroku_004c371aca34894
 }
